@@ -1,0 +1,5 @@
+Pillow
+youtube-search-python
+pytube
+numpy
+opencv-python
